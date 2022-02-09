@@ -1,0 +1,31 @@
+.content {
+
+    content: '';
+    position: relative;
+    width: 300px;
+    height: 400px;
+    background-color: rgba(211, 211, 211, 0.671);
+    box-shadow: 5px 6px 5px rgba(31, 5, 5, 0.192);
+    margin-left: 10px;
+    transform: translateX(50%);
+
+}
+#heading{
+    font-family:-"Times New Roman", Times, serif;
+}
+#number1{
+    background-color:#f8f9fad3 ;
+}
+#sub{
+    background-color: rgba(212, 209, 209, 0.973);
+}
+#binary{
+    background-color:#f8f9fa80 ;
+   
+}
+#octal{
+    background-color:#f8f9fa80 ;
+}
+#Hexa{
+    background-color:#f8f9fa80 ;
+}
